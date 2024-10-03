@@ -1,2 +1,2 @@
-# POSTECH-CSED232
-Source code for 2022S - POSTECH CSED232 (Data structure) Course Assignment. 
+# POSTECH-CSED233
+Source code for 2022S - POSTECH CSED233 (Data structure) Course Assignment. 
